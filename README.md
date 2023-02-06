@@ -1,4 +1,4 @@
-<img src="AngelIyamu/AngelIyamu/banner(1).png"/>
+<img src=""/>
 
 ###   About Me:
 <hr/>
