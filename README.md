@@ -1,4 +1,4 @@
-<img src="/assets/img/MarineGEO_logo.png"/>
+<img src="/banner(1).png"/>
 
 ###   About Me:
 <hr/>
