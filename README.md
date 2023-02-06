@@ -10,8 +10,10 @@ I'm a prospective software dev and uix designer. Hoping to specialize in web and
 <li>HTML/CSS </li>
 <li>Java Script </li>
 
-### 🤍 Stats
+### 🤍 Stats:
 <hr>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AngelIyamu"/></a>
 </p>
+### Diaries:
+<hr>
