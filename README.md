@@ -16,5 +16,6 @@ I'm a prospective software dev and uix designer. Hoping to specialize in web and
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AngelIyamu"/></a>
 </p>
 
-### Diaries:
+### 🤍 Diaries:
+<hr>
 
