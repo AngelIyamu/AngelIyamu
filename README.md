@@ -6,7 +6,7 @@ I'm a prospective software dev and uix designer. Hoping to specialize in web and
 
 ### 💜 Im Currently Learning:
 <hr/>
-<li>Digital production, Coding and Programming -</li>
+<li>C# -</li>
 <li>HTML/CSS  </li>
 <li>Java Script </li>
 
